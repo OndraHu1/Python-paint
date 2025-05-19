@@ -1,0 +1,5 @@
+- Vždy odpovídej v češtině
+- Pokud ti neřeknu ať zmeníš předchozí kód, tak ho neměň
+- Vše zapisuj do dokumentace README.md, vždy kontroluj jestli je zde vše
+- Vždy dělej testy k implementacím, abychom zjistili jestli je věe bezpečné a funguje efektivně
+- kód bude otestován pomocí pytest
